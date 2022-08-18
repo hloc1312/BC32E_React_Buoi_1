@@ -1,1 +1,1 @@
-# BC32E_React_Buoi_1
+# BC32E_Nguyễn Hoàng Lộc (Bài tập React buổi 1)
